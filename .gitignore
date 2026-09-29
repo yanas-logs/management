@@ -48,6 +48,10 @@ Homestead.json
 /.zed
 .phpactor.json
 
+# Claude Code local settings
+.claude/settings.local.json
+.claude/*.local.json
+
 # OS
 .DS_Store
 Thumbs.db
